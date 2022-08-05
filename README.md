@@ -17,8 +17,8 @@
   ##
   
   <div> 
-  <a href="https://www.instagram.com/thom_gomes/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thom%C3%A1s-gomes-796b8152/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/thom_gomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thom%C3%A1s-gomes-796b8152/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/Thomgomes/thomgomes/blob/output/github-contribution-grid-snake.svg)
  

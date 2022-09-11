@@ -11,7 +11,7 @@
   <img align="center" alt="Thom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thom-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thom-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/498166458581516298/1005179963483373599/download20220805144343.png?width=676&height=676">
+  <img align="right" alt="Thom-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/498166458581516298/1005179963483373599/download20220805144343.png?width=676&height=676">
 </div>
   
   ##

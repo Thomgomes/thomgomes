@@ -26,7 +26,7 @@
 
   
   
-  <img align="right" alt="Thom-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/498166458581516298/1005179963483373599/download20220805144343.png?width=676&height=676">
+  <img align="right" alt="Thom-pic" height="150" style="border-radius:50px;" src="./images/ezgif-3-cb6aef7bea.gif">
 </div>
   
   ##

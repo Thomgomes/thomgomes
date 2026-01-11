@@ -1,22 +1,22 @@
-## Olá! Eu sou Thomás Gomes 
+## 💫 Olá! Eu sou Thomás Gomes
+Desenvolvedor Frontend
 
-- 🌱 Estou estudando o curso OneBitCode Full Stack JS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thom-gomes/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:math.011@hotmail.com) 
+
+
+  
+# 💻 Stack:
 
 <div align="center">  
   <img align="right" alt="Thom-pic" height="150" style="border-radius:50px;" src="./images/ezgif-3-cb6aef7bea.gif">
 </div>
-  
-  ##
-  
-  <div align="left"> 
-<!--    <a href="https://www.linkedin.com/in/thom%C3%A1s-gomes-796b8152/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-   <a href="https://www.linkedin.com/in/thom%C3%A1s-gomes-796b8152/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/thom_gomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--    <a href="https://www.linkedin.com/in/thom%C3%A1s-gomes-796b8152/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> -->
-<!--    <a href="..." target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge"></a>
-  <a href="..." target="_blank"><img src="https://img.shields.io/badge/portfólio-CC6699?style=for-the-badge&logo=About.me&logoColor=white"></a>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandavsadev&color=blueviolet" alt="Profile views"/></p> -->
- 
-  ![Snake animation](https://github.com/Thomgomes/thomgomes/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=Thomgomes&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Thomgomes&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomgomes&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=Thomgomes&icon=0&color=0)](https://visitcount.itsvg.in)

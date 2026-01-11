@@ -2,30 +2,7 @@
 
 - 🌱 Estou estudando o curso OneBitCode Full Stack JS
 
-<div align="center">
-  <a href="https://github.com/thomgomes">
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomgomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <div/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomgomes&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomgomes&theme=tokyonight"/> 
-</div>
-  
-  ##
-   
-<div align="left" style="display: inline_block"><br>
-  <h3>Learning 🌱: </h3>
-   <code><img height="35" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="35" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="35" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="35" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="35" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="35" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-  <code><img height="35" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<!-- <code><img height="35" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
-
-  
-  
+<div align="center">  
   <img align="right" alt="Thom-pic" height="150" style="border-radius:50px;" src="./images/ezgif-3-cb6aef7bea.gif">
 </div>
   

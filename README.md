@@ -1,11 +1,12 @@
-## 💫 Olá! Eu sou Thomás Gomes
-Desenvolvedor Frontend
+# 💫 Olá! Eu sou Thomás Gomes
+## Engenheiro de Software
+## Desenvolvedor Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thom-gomes/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:math.011@hotmail.com) 
 
 
   
-# 💻 Stack:
+## 💻 Stack:
 
 <div align="center">  
   <img align="right" alt="Thom-pic" height="150" style="border-radius:50px;" src="./images/ezgif-3-cb6aef7bea.gif">
